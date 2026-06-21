@@ -1,2 +1,14 @@
 # huatihui-center-journal
-HTML page archive and documentation
+
+HTML 页面维护仓库
+
+这里是自动发布页面的存放目录，用于集中维护生成结果。
+
+## 文件存档
+
+- 页面文件由发布任务写入
+- README 作为仓库说明保留
+
+## 状态说明
+
+页面文件会按任务写入，仓库提交记录可用于查看变化。
